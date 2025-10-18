@@ -27,3 +27,17 @@
 	<chrono>
 	<xmmintrin.h>
 
+1760745646 source:c:\users\Домик\desktop\floats\floars\labsfloats\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<limits>
+	<sstream>
+	<bitset>
+	<chrono>
+	<xmmintrin.h>
+
