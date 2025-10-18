@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1760373225 source:c:\users\max\desktop\floats\labsfloats\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<limits>
+	<sstream>
+	<bitset>
+	<chrono>
+	<xmmintrin.h>
+
+1760744750 source:c:\users\Домик\desktop\floats\labsfloats\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<limits>
+	<sstream>
+	<bitset>
+	<chrono>
+	<xmmintrin.h>
+
